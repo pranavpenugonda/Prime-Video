@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.prime-video-bg-container {
+  background-color: #000000;
+  height: 100vh;
+  background-size: cover;
+}
+
+.prime-video-img {
+  width: 100%;
+  height: 40%;
+}
+
+.bg-cont2 {
+  background-color: #000000;
+  background-size: cover;
+  height: 80vh;
+}
+
+.movies-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 24px;
+}
